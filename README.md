@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Oɲƙɑɾ</h1>
+<h1 align="center">Hi<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="30px">, I'm Oɲƙɑɾ</h1>
+
 <h3 align="center">🎓 I’m an Open-Source & Android Enthusiast 👨‍💻 I am passionate about Mobile Dev, Computer Networking & I enjoy learning new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkar-dokhe&label=Profile%20views&color=0e75b6&style=flat" alt="onkar-dokhe" /> </p>
