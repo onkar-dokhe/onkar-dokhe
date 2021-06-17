@@ -29,9 +29,9 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-<a href="https://github.com/PtPrashantTripathi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PtPrashantTripathi&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PtPrashantTripathi&layout=compact&exclude_lang=java+r&theme=vue-dark" />
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=ptprashanttripathi"/>
+<a href="https://github.com/onkar-dokhe">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=onkar-dokhe&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=onkar-dokhe&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=onkar-dokhe"/>
 </a>
 </p>
