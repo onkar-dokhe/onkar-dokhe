@@ -21,7 +21,7 @@
 <a href="https://twitter.com/onkar_dokhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onkar_dokhe" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/onkar-dokhe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/onkar-dokhe/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/onkar_dokhe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/onkar_dokhe/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucusj7tek5rjzgrjg3eyh8ma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucusj7tek5rjzgrjg3eyh8ma" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCUsJ7TEk5rjzGrJG3eyH8MA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCUsJ7TEk5rjzGrJG3eyH8MA" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
