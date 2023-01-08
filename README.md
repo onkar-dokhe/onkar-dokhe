@@ -1,10 +1,10 @@
-<h1 align="center"><h1 align="center">Hey <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="30px">, I'm Oɲƙɑɾ</h1>
+<!-- <h1 align="center"><h1 align="center">Hey <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="30px">, I'm Oɲƙɑɾ</h1>
 
-<h3 align="center">🎓 I’m an Open-Source & Android Enthusiast </br> 👨‍💻 I am passionate about Mobile Dev, Computer Networking & I enjoy learning new things.</h3>
+<h3 align="center">🎓 I’m an Open-Source & Android Enthusiast </br> 👨‍💻 I am passionate about Mobile Dev, Computer Networking & I enjoy learning new things.</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkar-dokhe&label=Profile%20views&color=0e75b6&style=flat" alt="onkar-dokhe" /> </p>
 
-- 🔭 I’m currently working on **Problem Solving Projects**
+<!-- - 🔭 I’m currently working on **Problem Solving Projects**
 
 - 🌱 I’m currently learning **DSA,Mobile Development**
 
@@ -32,4 +32,4 @@
 <a href="https://github.com/onkar-dokhe">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=onkar-dokhe&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
 </a>
-</p>
+</p> -->
