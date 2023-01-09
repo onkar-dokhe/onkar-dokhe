@@ -2,7 +2,14 @@
 
 <h3 align="center">🎓 I’m an Open-Source & Android Enthusiast </br> 👨‍💻 I am passionate about Mobile Dev, Computer Networking & I enjoy learning new things.</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onkar-dokhe&label=Profile%20views&color=0e75b6&style=flat" alt="onkar-dokhe" /> </p>
+<p align="left"> 
+  
+  <img src="https://komarev.com/ghpvc/?username=onkar-dokhe&label=Profile%20views&color=0e75b6&style=flat" alt="onkar-dokhe" /> 
+  
+  <img src="https://media4.giphy.com/media/iYXcwaknTi6bkd04M8/giphy.gif?cid=790b7611956e083d1b9d3d7ab383a96d0ef4c7e69f674fc0&rid=giphy.gif&ct=g">
+
+</p>
+
 
 <!-- - 🔭 I’m currently working on **Problem Solving Projects**
 
